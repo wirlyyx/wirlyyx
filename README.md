@@ -25,4 +25,4 @@
 |--------|--------|
 | [**ExH for Fortnite Textures**](https://github.com/wirlyyx/ExH-Fortnite-Textures) | 🟢 Активен |
 | **ExB Private** | 🔒 Приватный |
-| **ExB Free** | 🟢 Планируется |
+| **ExB Free** | 🔨 В разработке |
